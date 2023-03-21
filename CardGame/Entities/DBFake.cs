@@ -21,7 +21,6 @@ namespace CardGame.Entities
                     int.Parse(cards[6]), cards[7]);
                 cardlist.Add(card);
             }
-
         }
     }
 }

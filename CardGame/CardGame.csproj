@@ -49,6 +49,9 @@
     <Compile Include="Entities\Card.cs" />
     <Compile Include="Entities\CardListArray.cs" />
     <Compile Include="Entities\DBFake.cs" />
+    <Compile Include="Entities\Player.cs" />
+    <Compile Include="Entities\Player1.cs" />
+    <Compile Include="Entities\Player2.cs" />
     <Compile Include="MainMenu.cs">
       <SubType>Form</SubType>
     </Compile>
